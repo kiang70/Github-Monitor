@@ -6,7 +6,7 @@
 注意：要把34行的KEY换成自己的Server酱KEY。如果你不知道Server酱是什么，请移步
 http://sc.ftqq.com
 
-![image](https://github.com/kiang70/Github-Monitor/img/1.jpeg)
+![image](https://github.com/kiang70/Github-Monitor/img/1.jpg)
 
 
-![image](https://github.com/kiang70/Github-Monitor/img/2.jpeg)
+![image](https://github.com/kiang70/Github-Monitor/img/2.jpg)
